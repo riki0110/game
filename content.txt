@@ -1,0 +1,9 @@
+■参照一覧
+〇pyscript-github
+https://github.com/pyscript/pyscript/tree/main/public
+
+〇pyscript　手順書
+
+〇github 手順書
+
+〇
