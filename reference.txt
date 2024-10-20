@@ -2,7 +2,9 @@
 〇pyscript-github
 https://github.com/pyscript/pyscript/tree/main/public
 
-〇pyscript　手順書
+〇pyscript　手順書　これが一番凡庸的
+https://qiita.com/Bashi50/items/01c961f8f969e1b1696d
+
 
 〇github 手順書
 
