@@ -8,13 +8,15 @@
     <py-config>packages = ["pandas"]</py-config>
 </head>
 <body>
-    <!-- html のフ中身-->
+    <!-- html の中身-->
     <p id="values"></p>
     <h1>hello</h1>
     <!--実行ファイルを設定しておく-->
     <!-- 実行ファイルdf　実行ファイルhello-->
     <py-script src="https://raw.githubusercontent.com/riki0110/game/refs/heads/main/python/hello.py"></py-script>
     <py-script>
+        #pythonの場合、コメントアウトは、#を利用すること
+        
         hello = hello()
         values = Element("values")
         values.element.innerText = hello
